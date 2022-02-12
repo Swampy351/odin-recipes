@@ -1,0 +1,1 @@
+My current project is learning on The Odin Project how to use Git properly, use command line & start with html, css.
